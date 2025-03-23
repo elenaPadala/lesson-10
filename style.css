@@ -6,3 +6,11 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+.menu{
+    padding:5px;
+    border-radius: 20px;
+    color:black;
+    border-style: solid;
+    background-color: white;
+}
